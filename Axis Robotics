@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto AR-25 | Adaptador Universal</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 0; }
+        header { background: #2c3e50; color: white; padding: 2rem; text-align: center; }
+        section { padding: 2rem; max-width: 800px; margin: auto; }
+        .grid { display: flex; gap: 20px; flex-wrap: wrap; }
+        .card { border: 1px solid #ddd; padding: 1rem; flex: 1; min-width: 250px; border-radius: 8px; }
+        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        footer { background: #f4f4f4; text-align: center; padding: 1rem; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Adaptador Universal AR-25</h1>
+    <p>Solución modular para pinzas en robots industriales de parque mixto</p>
+</header>
+
+<section id="introduccion">
+    <h2>Propuesta del Proyecto</h2>
+    <p>El proyecto se centra en el diseño de un cabezal adaptador universal, el modelo <strong>AR-25</strong>, capaz de acoplar una misma familia de pinzas neumáticas a diferentes robots industriales mediante bridas compatibles con el estándar <strong>ISO 9409-1</strong>.</p>
+</section>
+
+<section id="especificaciones">
+    <h2>Requisitos del Sistema</h2>
+    <div class="grid">
+        <div class="card">
+            <h3>Materiales Híbridos</h3>
+            <p>Aluminio 6061-T6 para ligereza y acero inoxidable 304 para resistencia en zonas de desgaste.</p>
+        </div>
+        <div class="card">
+            <h3>Fiabilidad Industrial</h3>
+            <p>Vida útil superior a 2.000.000 de ciclos sin fallos estructurales ni fugas neumáticas.</p>
+        </div>
+        <div class="card">
+            <h3>Modularidad</h3>
+            <p>Diseño de bloques que permite inspección o sustitución de componentes sin herramientas especiales.</p>
+        </div>
+    </div>
+</section>
+
+<section id="objetivos">
+    <h2>Objetivos Clave</h2>
+    <ul>
+        <li>Asegurar compatibilidad universal (Neutro dentro de la célula).</li>
+        <li>Reducción significativa en los tiempos de cambio de formato.</li>
+        <li>Preparado para instrumentación futura (Industria 4.0).</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Proyecto Universitario desarrollado por: Sala, Llorens, Montagut, Rodríguez y Cortés.</p>
+</footer>
+
+</body>
+</html>
